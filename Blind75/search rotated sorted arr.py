@@ -27,3 +27,4 @@ class Solution:
 rotate = Solution()
 
 print(rotate.SearchRotatedSortedArr([0,1,2,3,-2,-1], -1))
+
